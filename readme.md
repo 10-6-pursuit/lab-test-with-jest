@@ -28,6 +28,14 @@ You may use the data in the `data/` directory as either a model for your tests o
 
 
 /*
+steps to open coverage report
+ls coverage/lcov-report
+open coverage/lcov-report/index.html
+// it will open `file:///Users/nikik./Documents/module-three/pair-work-test-with-jest/coverage/lcov-report/src/index.html`
+
+
+
+
 
 Test with Jest
 Learning objectives
